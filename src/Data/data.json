@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "firstName": "Subashini",
+      "Lastname": "Sundar",
+      "email": "suba123@gmail.com",
+      "password": "Moonstars@123"
+    },
+    {
+      "id": 2,
+      "firstName": "Sutharsan",
+      "Lastname": "Sundar",
+      "email": "sutharsan123@gmail.com",
+      "password": "LiteStars@123"
+    },
+    {
+      "id": 3,
+      "firstName": "Soniya",
+      "Lastname": "Sundar",
+      "email": "soniya123@gmail.com",
+      "password": "BrightStars@123"
+    },
+    {
+      "id": 80,
+      "firstName": "rithu",
+      "Lastname": "haran",
+      "email": "rithu@gmail.com",
+      "password": "sdfregrt"
+    },
+    {
+      "id": 107,
+      "firstName": "vibhusha",
+      "Lastname": "sivaramaGuru",
+      "email": "vibhu@123@gmail.com",
+      "password": "sahbfkdfner"
+    },
+    {
+      "id": 20,
+      "firstName": "riyass",
+      "Lastname": "selvam",
+      "email": "riyass@123@hotmail.com",
+      "password": "zdffdrdgfhj"
+    },
+    {
+      "id": 27,
+      "firstName": "Ramaiahra",
+      "Lastname": "Mariappan",
+      "email": "rameshmariappan.m@gmail.com",
+      "password": "677667Rauh"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
